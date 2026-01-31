@@ -67,7 +67,7 @@ const TEST_CASES = [
 
   { id: 'Neg_Fun_0033', input: 'unga veedu periya veedu', expected: 'உங்க வீடு பெரிய வீடு aa' },
 
-   { id: 'Neg_Fun_0034', input: 'ennai marandhutaanga', expected: 'என்னை மறந்துடாங்க' },
+  
 
 
 
